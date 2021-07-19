@@ -1,0 +1,5 @@
+.git*
+*.conf
+package*.json
+Dockerfile
+.dockerignore
